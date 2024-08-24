@@ -35,6 +35,7 @@ This template comes with the following dependencies defined:
 * `mongoose` - `https://mongoosejs.com/`
 * `morgan` - `https://github.com/expressjs/morgan#readme`
 * `winston` - `https://github.com/winstonjs/winston#readme`
+* `ws` - `https://github.com/websockets/ws`
 
 ### DEV DEPENDENCIES
 * `eslint` - `https://eslint.org/`
